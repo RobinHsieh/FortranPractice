@@ -1,0 +1,10 @@
+My student ID is: 109601005
+
+Myid: 2, a_sum_sub =  0.193764486515699, integral from step  54800503 to  82200753.
+Myid: 3, a_sum_sub =  0.113327946037843, integral from step  82200754 to 109601005.
+Myid: 0, a_sum_sub =  0.247370855076318, integral from step         1 to  27400251.
+Myid: 1, a_sum_sub =  0.230934880329322, integral from step  27400252 to  54800502.
+
+Estimation of Pi:
+Myid: 0, a_sum_sub from each CPU: 0.247370855076318   0.230934880329322   0.193764486515699   0.113327946037843
+Myid: 0, a_sum =  0.785398167959181, pi_est =  3.141592671836726, cal_time =     0.0232 sec.
